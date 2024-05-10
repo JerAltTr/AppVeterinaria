@@ -1,0 +1,5 @@
+Peluche,Juan,Golden Retriever,24/05/2022,Macho,Felino
+Copito de nieve,Luis,Persian Cat,24/05/2022,Macho,Felino
+Atena,Julian,Pitbull,04/05/2023,Hembra,Canino
+Kion,Paola,Chihuahua,15/05/2024,Macho,Canino
+Waza,Nicole,Chihuahua,15/05/2024,Macho,Canino
